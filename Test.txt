@@ -3,3 +3,10 @@ feature2 updated...
 -------------
 line4 added
 line5 added
+=======
+This is a test file
+A new line is added
+************
+new line 
+=======
+New line added
