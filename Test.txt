@@ -1,3 +1,5 @@
 This is a test file
 A new line is added
 ************
+------------------
+new line added
